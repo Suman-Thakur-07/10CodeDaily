@@ -1,3 +1,5 @@
+// 	find Armstrong Number between two given number.
+
 import java.util.Scanner;
 
 public class PalindromeChecker {
